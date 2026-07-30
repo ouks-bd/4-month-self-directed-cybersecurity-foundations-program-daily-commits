@@ -1,0 +1,3 @@
+Router (Layer 3) vs switch (Layer 2); L3 switch can route.
+• Firewall, proxy, load balancer, VPN concentrator, WAF.
+• IDS = detect/alert; IPS = detect/block.
