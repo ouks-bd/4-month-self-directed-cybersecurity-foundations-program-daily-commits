@@ -1,0 +1,6 @@
+LEARN
+• VLANs, DMZ (screened subnet), NAT/PAT, segmentation.
+• Zero Trust (never trust, always verify), air gap, honeypot, jump server.
+EXAMPLE
+A public web server is placed in the DMZ. Even if attackers break into it, a second firewall keeps them
+from reaching the internal database.
